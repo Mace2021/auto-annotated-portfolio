@@ -164,7 +164,7 @@ sections:
           type: ImageBlock
           url: /images/TONHC_Seal 2023.jpg
           altText: ''
-          caption: Caption of the image
+          caption: ''
           elementId: ''
         elementId: ''
         styles:
