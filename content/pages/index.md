@@ -173,7 +173,7 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: "##### Elvis Tanyi-Arrey,\_MPH,\_REHS/RS.\n\n##### Environmental Health Officer\n\n##### Tohono O’odham Nation Health Care\n\n##### Office 520 383 7200 Ext. 5354\n\n##### Cell\_\_\_\_520 334 9402\n\n"
+        quote: "##### Elvis Tanyi-Arrey,\_MPH,\_REHS/RS.\n\n##### Environmental Health Officer\n\n##### Tohono O’odham Nation Health Care\n\n##### Office 520 383 7200 Ext. 5354\n\n##### Cell\_\_\_\_520 334 9402\n\nelvis.tanyi-arrey\\@tonation-nsn.gov\n"
         name: ''
         title: ''
         image:
