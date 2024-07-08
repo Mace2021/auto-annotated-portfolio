@@ -182,7 +182,7 @@ sections:
           type: ImageBlock
           url: /images/person-3.jpg
           altText: ''
-          caption: Caption of the image
+          caption: ''
           elementId: ''
         elementId: ''
         styles:
