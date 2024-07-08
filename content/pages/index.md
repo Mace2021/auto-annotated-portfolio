@@ -47,7 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Mobile Rabies Vaccination
     title: ToMobile Rabies Vaccination
   - type: FeaturedPostsSection
     elementId: ''
