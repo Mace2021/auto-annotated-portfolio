@@ -22,7 +22,7 @@ sections:
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
+    variant: variant-a
     projects: []
     styles:
       self:
