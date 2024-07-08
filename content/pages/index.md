@@ -174,6 +174,32 @@ sections:
           - pr-4
         justifyContent: center
       quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
+        textAlign: center
+  - type: QuoteSection
+    quote: >-
+      “We think coding should be required in every school because it's as
+      important as any kind of second language.”
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
         textAlign: left
       name:
         fontWeight": 500
