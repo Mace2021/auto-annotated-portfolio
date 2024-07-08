@@ -2,7 +2,7 @@
 type: PostLayout
 title: "Information Needed for Each certificate\U0001F30E"
 colors: colors-a
-date: '2024-02-01'
+date: '2024-03-01'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
