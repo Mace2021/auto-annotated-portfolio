@@ -16,7 +16,8 @@ sections:
     actions:
       - type: Link
         label: See all dates
-        url: 'https://mobilerabiesvaccination.my.canva.site/'
+        url: >-
+          https://www.canva.com/design/DAGKYRXCud0/9_b3xmwCUCM-UbfUwD-94g/view?utm_content=DAGKYRXCud0&utm_campaign=designshare&utm_medium=link&utm_source=editor#1
         showIcon: true
     showDate: false
     showDescription: true
