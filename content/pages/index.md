@@ -17,6 +17,7 @@ sections:
       - type: Link
         label: See all dates
         url: 'https://mobilerabiesvaccination.my.canva.site/'
+        showIcon: true
     showDate: false
     showDescription: true
     showFeaturedImage: true
