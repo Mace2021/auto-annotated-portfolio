@@ -48,7 +48,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-    title: Mobile Rabies Vaccination
+    title: ToMobile Rabies Vaccination
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
