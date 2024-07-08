@@ -55,7 +55,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: ContactSection
-    title: Got an interesting project? Tell me more...
+    title: Got a Question? Ask us...
     text: ''
     form:
       type: FormBlock
