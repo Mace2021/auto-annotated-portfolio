@@ -157,9 +157,7 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: "\n\n\n\nJayDiamond Taliman, DrPH,\_MPH\n\nDirector of Environmental Health\n\nTohono O’odham Nation Health Care\n\n(520) 307-8073\n\nJayDiamond.Taliman\\@tonation-nsn.gov\n\n\n\n\n\n\n\n"
         name: John Doe
         title: CEO at Parks
         image:
