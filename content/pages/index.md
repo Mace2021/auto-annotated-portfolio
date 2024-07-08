@@ -156,7 +156,7 @@ sections:
       text:
         textAlign: left
   - type: RecentProjectsSection
-    subtitle: Projects
+    subtitle: 'Office of Environmental Health '
     actions:
       - type: Link
         label: See all projects
