@@ -98,37 +98,26 @@ bottomSections:
       text:
         textAlign: left
 ---
-
-
-
-
 *   Owner needs to have
-         dog(s) on a leash.
+    dog(s) on a leash.
 
 *   It is recommended to
-         bring dogs in a crate. 
+    bring dogs in a crate.
 
 *   Owner must have full
-         control of dog(s) and/or cat(s).
+    control of dog(s) and/or cat(s).
 
 *   Owner must to hold the
-         pet for vaccination, instructions will be provided on site.
+    pet for vaccination, instructions will be provided on site.
 
 *   It is recommended to
-         bring pillow cases for cats to prevent potential scratching.
+    bring pillow cases for cats to prevent potential scratching.
 
 *   Rabies team will not
-         wait more than 25 minutes for owners to catch dog(s) and/or cat(s) if they
-         get loose and run away (Rabies team member will not catch your pets for
-         you).
+    wait more than 25 minutes for owners to catch dog(s) and/or cat(s) if they
+    get loose and run away (Rabies team member will not catch your pets for
+    you).
 
 *   If an animal owner is
-         not able to hold the animal, it is recommended to bring an individual
-         familiar with the animal to assist in holding during vaccination.
-
-
-
-
-
-
-
+    not able to hold the animal, it is recommended to bring an individual
+    familiar with the animal to assist in holding during vaccination.
