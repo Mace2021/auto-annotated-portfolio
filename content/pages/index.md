@@ -157,7 +157,7 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: "\n\n\n\nJayDiamond Taliman, DrPH,\_MPH\n\nDirector of Environmental Health\n\nTohono O’odham Nation Health Care\n\n(520) 307-8073\n\nJayDiamond.Taliman\\@tonation-nsn.gov\n\n\n\n\n\n\n\n"
+        quote: "##### JayDiamond Taliman, DrPH,\_MPH\n\n##### Director of Environmental Health\n\n##### Tohono O’odham Nation Health Care\n\n##### (520) 307-8073\n\n##### <JayDiamond.Taliman@tonation-nsn.gov>\n\n"
         name: John Doe
         title: CEO at Parks
         image:
