@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Link
         label: See all dates
-        url: /projects
+        url: 'https://mobilerabiesvaccination.my.canva.site/'
     showDate: false
     showDescription: true
     showFeaturedImage: true
