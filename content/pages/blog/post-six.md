@@ -4,7 +4,7 @@ title: "Information for Animal Owners \U0001F5C2️"
 colors: colors-a
 date: '2024-07-08'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: "•\tOwner needs to have dog(s) on a leash.•\tIt is recommended to bring dogs in a crate. •\tOwner must have full control of dog(s) and/or cat(s).•\tOwner must to hold the pet for vaccination, instructions will be provided on site.•\tIt is recommended to bring pillow cases for cats to prevent potential scratching.•\tRabies team will not wait more than 25 minutes for owners to catch dog(s) and/or cat(s) if they get loose and run away (Rabies team member will not catch your pets for you).•\tIf an animal owner is not able to hold the animal, it is recommended to bring an individual familiar with the animal to assist in holding during vaccination."
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
