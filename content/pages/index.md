@@ -98,7 +98,7 @@ sections:
           GU VO DISTRICT September 3, 2024 Menager’s Dam Community Bldg. 1030am
           – 1100am Pia Oik Church 1115am – 1145am Gu Vo District Office 12.png
         altText: Schedule
-        caption: Image four caption
+        caption: 'Mobile Rabies Vaccination schedule '
         elementId: ''
     colors: colors-c
     spacing: 16
