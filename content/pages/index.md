@@ -93,7 +93,10 @@ sections:
     subtitle: 'Schedule '
     images:
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: >-
+          /images/Mobile Rabies Vaccine Clinic 2024 Schedule TENTATIVE SCHEDULE
+          GU VO DISTRICT September 3, 2024 Menager’s Dam Community Bldg. 1030am
+          – 1100am Pia Oik Church 1115am – 1145am Gu Vo District Office 12.png
         altText: Image four
         caption: Image four caption
         elementId: ''
