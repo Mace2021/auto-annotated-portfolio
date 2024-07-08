@@ -93,11 +93,6 @@ sections:
     subtitle: 'Schedule '
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/gallery-3.jpg
         altText: Image three
         caption: Image three caption
