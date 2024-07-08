@@ -181,7 +181,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/person-3.jpg
-          altText: Johnna Doe
+          altText: ''
           caption: Caption of the image
           elementId: ''
         elementId: ''
