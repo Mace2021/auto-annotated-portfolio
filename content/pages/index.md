@@ -159,7 +159,7 @@ sections:
       - type: Testimonial
         quote: "##### JayDiamond Taliman, DrPH,\_MPH\n\n##### Director of Environmental Health\n\n##### Tohono O’odham Nation Health Care\n\n##### (520) 307-8073\n\n##### <JayDiamond.Taliman@tonation-nsn.gov>\n\n"
         name: ''
-        title: CEO at Parks
+        title: ''
         image:
           type: ImageBlock
           url: /images/TONHC_Seal 2023.jpg
