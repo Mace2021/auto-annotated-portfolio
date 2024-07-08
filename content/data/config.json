@@ -12,11 +12,6 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "https://mobilerabiesvaccination.my.canva.site/"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
             }
         ],
         "socialLinks": [],
