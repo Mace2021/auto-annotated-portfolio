@@ -48,7 +48,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Mobile Rabies Vaccination
-    title: ToMobile Rabies Vaccination
+    title: 'Tohono O,odham Nation Mobile Rabies Vaccination'
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
