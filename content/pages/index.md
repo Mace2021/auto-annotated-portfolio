@@ -178,7 +178,7 @@ sections:
         title: ''
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
+          url: /images/TONHC Seal B&W.jpg
           altText: ''
           caption: ''
           elementId: ''
