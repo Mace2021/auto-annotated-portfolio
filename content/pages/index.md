@@ -105,7 +105,7 @@ sections:
     columns: 2
     aspectRatio: auto
     showCaption: true
-    enableHover: false
+    enableHover: true
     elementId: ''
     styles:
       self:
