@@ -177,7 +177,7 @@ sections:
           “Anytime I have a question, I know I can get in touch with Doris. She
           always helps me adjust my site to look as perfect as I’d hoped.”
         name: ''
-        title: Product Marketing Manager at Acme
+        title: ''
         image:
           type: ImageBlock
           url: /images/person-3.jpg
