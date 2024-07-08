@@ -90,7 +90,7 @@ sections:
         justifyContent: flex-end
   - type: MediaGallerySection
     title: Gallery
-    subtitle: 'Scheldule '
+    subtitle: 'Schedule '
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
