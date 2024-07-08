@@ -173,7 +173,7 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: "\n\nElvis Tanyi-Arrey,\_MPH,\_REHS/RS.\n\nEnvironmental Health Officer\n\nTohono O’odham Nation Health Care\n\nOffice 520 383 7200 Ext. 5354\n\nCell\_\_\_\_520 334 9402\n\n\n\n\n\n\n\n"
+        quote: "##### Elvis Tanyi-Arrey,\_MPH,\_REHS/RS.\n\nEnvironmental Health Officer\n\nTohono O’odham Nation Health Care\n\nOffice 520 383 7200 Ext. 5354\n\nCell\_\_\_\_520 334 9402\n"
         name: ''
         title: ''
         image:
