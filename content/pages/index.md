@@ -173,9 +173,7 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+        quote: "\n\nElvis Tanyi-Arrey,\_MPH,\_REHS/RS.\n\nEnvironmental Health Officer\n\nTohono O’odham Nation Health Care\n\nOffice 520 383 7200 Ext. 5354\n\nCell\_\_\_\_520 334 9402\n\n\n\n\n\n\n\n"
         name: ''
         title: ''
         image:
