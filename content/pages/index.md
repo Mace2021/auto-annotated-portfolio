@@ -163,7 +163,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/TONHC_Seal 2023.jpg
-          altText: John Doe
+          altText: ''
           caption: Caption of the image
           elementId: ''
         elementId: ''
